@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Ingrese el primer número entero:");
+        Console.WriteLine("Ingrese el primer número entero Rama 1:");
         int numero1 = int.Parse(Console.ReadLine());
 
         Console.WriteLine("Ingrese el segundo número entero:");
